@@ -1,0 +1,3 @@
+# ejerciciospythoAdrianperez
+
+006223
