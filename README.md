@@ -14,7 +14,7 @@ _En base de evaluación y registro de pruebas final para verificación del uso d
 
 ### Y las pruebas de estilo de codificación ⌨️
 
-_Con diseño response._
+_Con diseño a la aministracion._
 
 ```
 Micro 
